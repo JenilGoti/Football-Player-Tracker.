@@ -196,13 +196,3 @@ Recall:     0.800
 - [ByteTrack](https://github.com/ifzhang/ByteTrack)
 - Dataset by [Laurent Pereira](https://universe.roboflow.com/laurent-pereira-44n5u/football-player-detection-ryyjv)
 
----
-
-## 👤 Author
-
-**Jenil Goti**
-- GitHub: [@JenilGoti](https://github.com/JenilGoti)
-
----
-
-> ⭐ If you found this project useful, please give it a star!
